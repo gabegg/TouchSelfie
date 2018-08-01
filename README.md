@@ -15,6 +15,8 @@ sudo pip install --upgrade oauth2client
 mkdir git
 cd git
 git clone https://github.com/wyolum/TouchSelfie
+or
+git clone https://github.com/carolinedunn/TouchSelfie
 
 ```
 Still on your Raspbian desktop, open Chromium, the pre-loaded, default web browser.
