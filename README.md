@@ -21,12 +21,12 @@ git clone https://github.com/carolinedunn/TouchSelfie
 ```
 Still on your Raspbian desktop, open Chromium, the pre-loaded, default web browser.
 Sign into your Gmail account.
-In Settings:
+Go to Account Security Settings: https://myaccount.google.com/security
 Ensure 2-factor authentication is turned on.
 Create a Photo Album. Note: Photo Albums require at least 1 photo.
 Create an App Password
 
-Open a new tab in your browser and goto: console.developers.amazon.com
+Open a new tab in your browser and goto: https://console.developers.google.com/
 Create a new project.
 Create OAuth2 credentials
 Download OAuth2 credentials
@@ -45,7 +45,7 @@ Enter your gmail address, then enter your app password.
 A browser window should pop-up for you to agree.
 One authentication is complete, you should receive a long alpha-numeric code to be copied and pasted into the terminal.
 
-The photobooth_gui.py should be full screen now and take a picture automatically.
+The photobooth_gui.py should be full screen.
 Click the customize button to set your AlbumID and other parameters.
 
 At parties, run:
