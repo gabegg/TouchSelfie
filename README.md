@@ -51,6 +51,6 @@ Click the customize button to set your AlbumID and other parameters.
 At parties, run:
 ```
 cd /home/pi/git/TouchSelfie/scripts
-python ./photobooth.py
+python ./photobooth-exit-button-only.py
 ```
 to prevent users from changing your parameters.
