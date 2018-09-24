@@ -28,6 +28,8 @@ Create an App Password
 
 Open a new tab in your browser and goto: https://console.developers.google.com/
 Create a new project.
+Click Enable APIs
+Enable Gmail and Drive APIs.
 Create OAuth2 credentials
 Download OAuth2 credentials
 
